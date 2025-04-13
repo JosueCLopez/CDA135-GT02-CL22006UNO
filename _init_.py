@@ -1,1 +1,1 @@
-from CL22006UNO import GaussianElimination
+from .GaussianElimination import *
