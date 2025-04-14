@@ -48,6 +48,15 @@ Cada método está implementado como una función dentro de esta clase.
 -   Este proyecto no requiere librerías externas. Está desarrollado solo con Python puro.
 -   Compatible con Python 3.x.
 
+## Instalación
+
+-   Para instalar este proyecto solamente tendras que digitar en tu consola Python
+ ```
+ pip install CL22006UNO
+```
+  
+
+
 ## Ejemplos de Uso
  ```markdown
     ```python
@@ -71,3 +80,4 @@ Cada método está implementado como una función dentro de esta clase.
         print("Error:", e)
         ```
     ```
+
