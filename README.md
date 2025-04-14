@@ -59,7 +59,7 @@ Cada método está implementado como una función dentro de esta clase.
 ## Ejemplos de Uso
  ```python
 
-    from CL22006UNO.GaussianElimination import GaussianElimination
+from CL22006UNO.GaussianElimination import GaussianElimination
 
 # Define un sistema de ecuaciones lineales
 matriz = [
@@ -123,5 +123,5 @@ try:
     print("Raíz encontrada usando el método de bisección:", raiz)
 except ValueError as e:
     print("Error:", e)
-    ```
+
 
