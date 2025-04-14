@@ -57,8 +57,8 @@ Cada método está implementado como una función dentro de esta clase.
 
 
 ## Ejemplos de Uso
- ```markdown
- 
+ ```python
+
     from CL22006UNO.GaussianElimination import GaussianElimination
 
 # Define un sistema de ecuaciones lineales
