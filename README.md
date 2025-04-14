@@ -25,7 +25,6 @@ class GaussianElimination:
         self.matrix = matrix
         self.results = results
 ```
-    ```
 # GaussianElimination
 
 Este proyecto proporciona una clase de Python (`GaussianElimination`) que implementa varios métodos numéricos para resolver sistemas de ecuaciones lineales y encontrar raíces de funciones.
